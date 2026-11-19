@@ -1,0 +1,5 @@
+
+{
+  "api_key": "YOUR_FIREBASE_API_KEY",
+  "database_url": "YOUR_FIREBASE_DATABASE_URL"
+}

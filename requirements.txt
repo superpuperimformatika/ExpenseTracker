@@ -1,0 +1,5 @@
+
+kivy
+matplotlib
+requests
+kivy-garden
